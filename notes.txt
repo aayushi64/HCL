@@ -1,3 +1,27 @@
-using pip list in cmd  :-
+1. using pip list in cmd  :-
 you can get to know about the versions you using of diff extensions or apps
+
+2. now install python -m pip install virtualenv
+using cmd in the same folder
+mera already env exist krta hai toh maine myenv ko same path pr bhi activate krdiya 
+
+3. then my env ka folder agya hai batch1 mai now myenv mai jakr script pr jakr then 2nd no ki activate file ko copy kr ke rrot folder ie batch1 main paste krdo
+
+4. upr search pr cmd kro 
+then activate krdo 
+uske bd esa ayega : (myenv) C:\Users\arish\OneDrive\Desktop\CSE\CSE-11\HCL\Batch1\pythonproject>
+thus mtlb hogya 
+
+5. then download python -m pip install numpy pandas matplotlib seaborn
+and pip install notebook
+
+6. sab install hone ke bd likho jupyter notebook 
+then voh ek server on krdega
+
+7. waha pr new pr jao then python 3 
+waha pr untitiled ajayega 
+then to rename click on untitled then change it to pandas dataframe with extension as .ipynb (integrated python notebook)
+
+8.
+
 
