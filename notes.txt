@@ -1,0 +1,3 @@
+using pip list in cmd  :-
+you can get to know about the versions you using of diff extensions or apps
+
