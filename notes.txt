@@ -22,6 +22,7 @@ then voh ek server on krdega
 waha pr untitiled ajayega 
 then to rename click on untitled then change it to pandas dataframe with extension as .ipynb (integrated python notebook)
 
-8.
+8. remeber ye sab jo install honge ye sab activate hone ke baad honge wran error ayega 
+
 
 
