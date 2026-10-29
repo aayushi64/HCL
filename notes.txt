@@ -24,5 +24,11 @@ then to rename click on untitled then change it to pandas dataframe with extensi
 
 8. remeber ye sab jo install honge ye sab activate hone ke baad honge wran error ayega 
 
+9. never beilve that teacher 
+bhaii usnein tera python uda diya pura 
+ab dekh 
+
+10. you have to install all those pip again and again jab jab tu anyi fiel banyegi 
+bki koi dikt ni 
 
 
