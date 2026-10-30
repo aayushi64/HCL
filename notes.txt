@@ -31,4 +31,12 @@ ab dekh
 10. you have to install all those pip again and again jab jab tu anyi fiel banyegi 
 bki koi dikt ni 
 
+11. jab ek file banni ho or usmein sari library pre install ho ajye 
+>pip freeze > requirements.txt
+
+12. to finally install them 
+>pip install -r requirements.txt
+
+
+13. fir jo bhi lib teri requirements.txt mai thi voh sab install kr degi
 
